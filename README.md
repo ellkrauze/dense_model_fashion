@@ -1,5 +1,5 @@
 # Analysis of the Quality of Neural Network Training
-> How to create your own neural network and train it on dataset. 
+> How to create your own neural network and train it on the dataset. 
 
 > **TAGS:** Tensorflow, Keras, Numpy; FashionMnist dataset
 
